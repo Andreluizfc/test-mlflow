@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre.castro/Desktop/teste_mlflow/test_mlflow/src/models/mlruns/0/7d012863f1874d85b08beda7a2e394d6/artifacts
+end_time: 1685667902678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d012863f1874d85b08beda7a2e394d6
+run_name: gregarious-asp-830
+run_uuid: 7d012863f1874d85b08beda7a2e394d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685667897671
+status: 3
+tags: []
+user_id: andre.castro
